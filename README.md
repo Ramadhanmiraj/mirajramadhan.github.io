@@ -47,7 +47,7 @@ This very page! A personal space to showcase my digital footprint, skills, and p
 
 ## Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/mirajiramadhani](https://linkedin.com/in/mirajiramadhani)
+- **LinkedIn:** [linkedin.com/in/Miraji Ramadhani ](https://linkedin.com/in/Miraji Ramadhani )
 - **Email:** rmiraji792@gmail.com  
 - **GitHub:** [mirajramadhan.github.io ](https://github.com/mirajramadhan.github.io )
 ![Screenshot_20250416_231655_com android gallery3d](https://github.com/user-attachments/assets/2d9c9f54-3b48-4d8f-9d82-787dc0bc3637)
