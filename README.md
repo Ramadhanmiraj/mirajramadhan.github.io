@@ -1,6 +1,6 @@
 # mirajramadhan.github.io
 My personal developer portifoli 
-# Miraji Ramdhani
+# Miraji Ramadhani
 
 **Student | Developer | Tech Enthusiast**  
 Bachelor in Accountancy with Information Technology (BAIT) | IFM University  
@@ -8,7 +8,7 @@ Bachelor in Accountancy with Information Technology (BAIT) | IFM University
 ---
 
 ## About Me
-Hi there! I’m **Miraji Ramdhani**, a passionate and self-driven BAIT student currently exploring the exciting world of **technology, coding, and business**. I blend my knowledge in accounting with modern IT solutions to solve real-world problems.
+Hi there! I’m **Miraji Ramadhani**, a passionate and self-driven BAIT student currently exploring the exciting world of **technology, coding, and business**. I blend my knowledge in accounting with modern IT solutions to solve real-world problems.
 
 ## Projects
 
@@ -47,7 +47,7 @@ This very page! A personal space to showcase my digital footprint, skills, and p
 
 ## Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/mirajiramdhani](https://linkedin.com/in/mirajiramdhani)
+- **LinkedIn:** [linkedin.com/in/mirajiramadhani](https://linkedin.com/in/mirajiramadhani)
 - **Email:** rmiraji792@gmail.com  
 - **GitHub:** [mirajramadhan.github.io ](https://github.com/mirajramadhan.github.io )
 ![Screenshot_20250416_231655_com android gallery3d](https://github.com/user-attachments/assets/2d9c9f54-3b48-4d8f-9d82-787dc0bc3637)
